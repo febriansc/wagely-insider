@@ -1,1 +1,1 @@
-# wagely-insider
+# wagely-insider-lib

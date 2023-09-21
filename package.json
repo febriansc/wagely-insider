@@ -1,0 +1,24 @@
+{
+  "name": "wagely-insider-lib-test",
+  "version": "1.0.0",
+  "description": "POC of Wagely-Insider Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febriansc/wagely-insider-lib.git"
+  },
+  "author": "febriansc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febriansc/wagely-insider-lib/issues"
+  },
+  "homepage": "https://github.com/febriansc/wagely-insider-lib#readme",
+  "dependencies": {
+    "lodash.isempty": "^4.4.0",
+    "uuid": "^9.0.1",
+    "wagely-insider-lib-test": "^1.0.0"
+  }
+}

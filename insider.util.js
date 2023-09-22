@@ -16,6 +16,10 @@ export const insiderTrackEvent = ({ window, eventName, params }) => {
   }
 };
 
-export const insiderReinitOnWeb = window => {
+export const insiderInit = window => {
   insiderService.init(window);
+};
+
+export const insiderSetIdentifier = (window, profile) => {
+  insiderService.insiderSetIdentifier(window, profile);
 };

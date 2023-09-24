@@ -1,6 +1,6 @@
 import isEmpty from 'lodash.isempty';
 
-import insiderService from './index';
+import insiderService from './insider.service';
 
 export const insiderParamArrayObject = (key, value, dataType) => ({
   key,

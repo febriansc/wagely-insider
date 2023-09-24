@@ -1,6 +1,6 @@
 {
   "name": "wagely-insider-lib-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "POC of Wagely-Insider Library",
   "main": "index.js",
   "scripts": {

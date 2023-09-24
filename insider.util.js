@@ -21,5 +21,5 @@ export const insiderInit = window => {
 };
 
 export const insiderSetIdentifier = (window, profile) => {
-  insiderService.insiderSetIdentifier(window, profile);
+  insiderService.setInsiderIdentifier(window, profile);
 };
